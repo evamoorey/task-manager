@@ -1,0 +1,9 @@
+/Users/eva/Desktop/peer7/TaskManager/TaskManager/bin/Debug/netcoreapp3.1/LibraryTaskManager.deps.json
+/Users/eva/Desktop/peer7/TaskManager/TaskManager/bin/Debug/netcoreapp3.1/LibraryTaskManager.dll
+/Users/eva/Desktop/peer7/TaskManager/TaskManager/bin/Debug/netcoreapp3.1/LibraryTaskManager.pdb
+/Users/eva/Desktop/peer7/TaskManager/TaskManager/obj/Debug/netcoreapp3.1/LibraryTaskManager.csprojAssemblyReference.cache
+/Users/eva/Desktop/peer7/TaskManager/TaskManager/obj/Debug/netcoreapp3.1/LibraryTaskManager.AssemblyInfoInputs.cache
+/Users/eva/Desktop/peer7/TaskManager/TaskManager/obj/Debug/netcoreapp3.1/LibraryTaskManager.AssemblyInfo.cs
+/Users/eva/Desktop/peer7/TaskManager/TaskManager/obj/Debug/netcoreapp3.1/LibraryTaskManager.csproj.CoreCompileInputs.cache
+/Users/eva/Desktop/peer7/TaskManager/TaskManager/obj/Debug/netcoreapp3.1/LibraryTaskManager.dll
+/Users/eva/Desktop/peer7/TaskManager/TaskManager/obj/Debug/netcoreapp3.1/LibraryTaskManager.pdb

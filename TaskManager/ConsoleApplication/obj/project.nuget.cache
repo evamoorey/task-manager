@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hWtED49k66IJWEQ91Ur/zJPF15Zi2YCBJRJtH8PGgaFzMKkrRF5+i9d9DpAAQSI2IYjXBS1DfjOBDzUqluaDEw==",
+  "success": true,
+  "projectFilePath": "/Users/eva/Desktop/home_code/peer7/TaskManager/ConsoleApplication/ConsoleApplication.csproj",
+  "expectedPackageFiles": [
+    "/Users/eva/.nuget/packages/newtonsoft.json/13.0.1-beta1/newtonsoft.json.13.0.1-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}

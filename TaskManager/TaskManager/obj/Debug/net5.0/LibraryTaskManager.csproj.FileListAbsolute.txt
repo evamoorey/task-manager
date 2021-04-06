@@ -1,0 +1,12 @@
+/Users/eva/Desktop/peer7/TaskManager/TaskManager/bin/Debug/net5.0/LibraryTaskManager.deps.json
+/Users/eva/Desktop/peer7/TaskManager/TaskManager/bin/Debug/net5.0/LibraryTaskManager.dll
+/Users/eva/Desktop/peer7/TaskManager/TaskManager/bin/Debug/net5.0/ref/LibraryTaskManager.dll
+/Users/eva/Desktop/peer7/TaskManager/TaskManager/bin/Debug/net5.0/LibraryTaskManager.pdb
+/Users/eva/Desktop/peer7/TaskManager/TaskManager/obj/Debug/net5.0/LibraryTaskManager.csprojAssemblyReference.cache
+/Users/eva/Desktop/peer7/TaskManager/TaskManager/obj/Debug/net5.0/LibraryTaskManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eva/Desktop/peer7/TaskManager/TaskManager/obj/Debug/net5.0/LibraryTaskManager.AssemblyInfoInputs.cache
+/Users/eva/Desktop/peer7/TaskManager/TaskManager/obj/Debug/net5.0/LibraryTaskManager.AssemblyInfo.cs
+/Users/eva/Desktop/peer7/TaskManager/TaskManager/obj/Debug/net5.0/LibraryTaskManager.csproj.CoreCompileInputs.cache
+/Users/eva/Desktop/peer7/TaskManager/TaskManager/obj/Debug/net5.0/LibraryTaskManager.dll
+/Users/eva/Desktop/peer7/TaskManager/TaskManager/obj/Debug/net5.0/ref/LibraryTaskManager.dll
+/Users/eva/Desktop/peer7/TaskManager/TaskManager/obj/Debug/net5.0/LibraryTaskManager.pdb

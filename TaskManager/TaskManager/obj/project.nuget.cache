@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XOCA1MH+fWA9T2iS3Or2WgHbo3T4OAQm7eB3GDZX8Wc2KPlitqab3F+ZUaTi+DVN8aVW42s7qsh3fqwgRm9Byg==",
+  "success": true,
+  "projectFilePath": "/Users/eva/Desktop/home_code/peer7/TaskManager/TaskManager/LibraryTaskManager.csproj",
+  "expectedPackageFiles": [
+    "/Users/eva/.nuget/packages/newtonsoft.json/13.0.1-beta1/newtonsoft.json.13.0.1-beta1.nupkg.sha512",
+    "/Users/eva/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/eva/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
